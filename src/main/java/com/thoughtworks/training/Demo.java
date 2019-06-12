@@ -1,4 +1,4 @@
-package com.github.codedojo;
+package com.thoughtworks.training;
 
 public class Demo {
 
